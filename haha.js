@@ -1,1 +1,1 @@
-alert("Haha")
+alert("Haha other")
